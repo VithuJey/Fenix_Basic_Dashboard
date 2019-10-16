@@ -1,0 +1,17 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 45%, rgba(0,212,255,1) 100%);
+}
+
+.card-landpage {
+    padding: 2em;
+    margin-top: 10%;
+    max-width: 30%;
+    border: 1px solid rgb(195, 212, 231);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.logo {
+    text-align: center;
+}
